@@ -25,7 +25,8 @@ void loop() {
   voltage = reading * (5.0 / 1023.0);
   temperature = (voltage - 0.5) * 100.0;
 
----
+
+
 
 ## 🔌 Task 2 – LED Control using Serial Commands
 
