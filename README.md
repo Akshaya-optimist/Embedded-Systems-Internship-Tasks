@@ -24,12 +24,6 @@ void loop() {
   int reading = analogRead(sensorPin);
   voltage = reading * (5.0 / 1023.0);
   temperature = (voltage - 0.5) * 100.0;
-
-
-
-
-
-
   Serial.print("Temperature: ");
   Serial.print(temperature);
   Serial.println(" °C");
