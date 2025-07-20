@@ -19,7 +19,7 @@ This project allows the user to control two LEDs using the Serial Monitor by sen
 
 ## 💡 Circuit Diagram
 
-![Circuit Task 2](https://github.com/Akshaya-optimist/Temperature-Sensor-Project/blob/main/Screenshot%202025-07-20%20170830.png?raw=true)
+![Circuit Task 2](https://github.com/Akshaya-optimist/Temperature-Sensor-Project/blob/main/Task-2/Screenshot%202025-07-20%20170830.png?raw=true)
 
 ## 📜 Code
 
