@@ -9,7 +9,7 @@ This is Task 1 for my Embedded Systems Internship at CodTech.
 - *Tool*: Tinkercad Simulation
 
 ## 📷 Circuit Diagram
-![Circuit Diagram](https://github.com/Akshaya-optimist/Temperature-Sensor-Project/blob/main/Screenshot%202025-07-19%20163902.png?raw=true)
+![Circuit Diagram]((https://github.com/Akshaya-optimist/Embedded-Systems-Internship-Tasks/blob/main/Task-1-Temperature-Sensor/Screenshot%202025-07-19%20163902.png?raw=true))
 
 ## 📜 Code
 ```cpp
